@@ -14,7 +14,8 @@ TODO:
 
 - [x] For each of telescopes/instruments filters, set magnitude range accordingly.
 
-- [ ] Select observations with a magnitude brighter than a given magnitude limits based on ![data/Survey-Filters-LimitingMagtypicalexposure-TypicalExposureTimes-Reference.csv].
+- [ ] Select observations with a magnitude brighter than a given magnitude limits based on 
+the survey filter limit table [Survey filter limits](data/Survey-Filters-LimitingMagtypicalexposure-TypicalExposureTimes-Reference.csv)
 
 Write a function to download Images from Instruments/Telescope for given dates.
 
