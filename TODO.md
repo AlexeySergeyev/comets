@@ -7,14 +7,14 @@ Initial
 
 - [x] Fetch CADEC dataset (`comet_cadec.csv`)
 - [x] Fetch Miriade dataset (`comet_miriade.csv`)
-- [ ] Fetch JPL Horizons dataset (`comet_jplhorizons.csv`)
+- [x] Fetch JPL Horizons dataset (`comet_jplhorizons.csv`)
 
 TODO:
 
 
 - [x] For each of telescopes/instruments filters, set magnitude range accordingly.
 
-- [ ] Select observations with a magnitude brighter than a given magnitude limits based on 
+- [x] Select observations with a magnitude brighter than a given magnitude limits based on 
 the survey filter limit table [Survey filter limits](data/Survey-Filters-LimitingMagtypicalexposure-TypicalExposureTimes-Reference.csv)
 
 Write a function to download Images from Instruments/Telescope for given dates.
